@@ -5,5 +5,9 @@
 /node_modules
 *.ask
 *.ask.json
+*.askjson
+*.askjson
 *.test.result.ts
 *.ask.ast.json
+.gitignore
+.prettierignore
